@@ -2,3 +2,4 @@
 
 git-test-cloned에서 변경한 게 맞습니다 !
 네 파일명 바꾸고 다시 conflict test 합니다. 그리고 반대로  git-test로 pull을 clone pull 다음으로 했을 때는 <<<Head >>>b42.. 이런 문구들이 뜨지 않았네요
+conflict test -> third-files 삭제하고 clone에서 push 시도합니다. clone dir 그대로 git에 반영되는 지 확인.
