@@ -1,4 +1,4 @@
 세 번째 파일입니다
 
-git-test 에서 다시 변경합니다 .그리고 파일 명을 바꿔서 conflict 시도하면 충돌이 없을 겁니다.
+git-test 에서 다시 변경합니다 .그리고 파일 명을 바꿔서 conflict 시도.
 third-file -> thirt-files
